@@ -1,5 +1,4 @@
-I am a first-year Ph.D. in Computer Science at [Northeastern University](https://neu.edu.cn/), advised by Prof. [Zhenghao Liu](http://faculty.neu.edu.cn/liuzhenghao/zh_CN/index.htm). My research focuses on large language models (LLMs), parametric knowledge, and foundation models.
-
+I am a first-year Ph.D. student in Computer Science at [Northeastern University](https://neu.edu.cn/), advised by Prof. [Zhenghao Liu](http://faculty.neu.edu.cn/liuzhenghao/zh_CN/index.htm). I received my M.S. degree in Computer Science from [Northeastern University](https://neu.edu.cn/), where I was advised by Prof. [Tong Xiao](http://team.neu.edu.cn/NEUNLPLab/zh_CN/article/411756/content/2225.htm). My research focuses on large language models (LLMs), parametric knowledge, and foundation models.
 ---
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
