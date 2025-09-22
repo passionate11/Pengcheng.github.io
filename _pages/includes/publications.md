@@ -17,7 +17,7 @@ Zhenghao Liu, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng
 </div>
 
 <!-- PamramMute_nips -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper/parammute_nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation
@@ -105,7 +105,7 @@ Xinyu Liu, Runsong Zhao, `Pengcheng Huang`, Chunyang Xiao, Bei Li, Jingang Wang,
 
 
 <!-- TAR_CCL -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper/tar_ccl24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL 2025</div><img src='images/paper/tar_ccl24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # Translate-and-Revise: Boosting Large Language Models for Constrained Translation

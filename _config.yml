@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengcheng Huang"
-description              : "Ph.D. student in Computer Science at Northeastern University (China)"
+description              : "CS Ph.D. student at Northeastern (China)"
 repository               : "passionate11/Pengcheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengcheng Huang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student in Computer Science at Northeastern University (China), researching Large Language Models, parametric knowledge, and foundation models."
+  bio              : "Researching Large Language Models, parametric knowledge, and foundation models."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
