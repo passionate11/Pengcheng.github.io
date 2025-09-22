@@ -8,7 +8,7 @@
 
 # Knowledge Intensive Agents
 
-Zhenghao Liu, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng, Haidong Xin, Yukun Yan, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun, Yu Gu, Ge Yu
+Zhenghao Liu*, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng, Haidong Xin, Yukun Yan, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun, Yu Gu, Ge Yu
 
 [**📄PDF**](https://papers.ssrn.com/sol3/Delivery.cfm/81afde5f-fbd1-4635-b582-7ac104b3322a-MECA.pdf?abstractid=5459034&mirid=1)
 
@@ -22,7 +22,7 @@ Zhenghao Liu, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng
 
 # ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation
 
-`Pengcheng Huang`, Zhenghao Liu, Yukun Yan, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong
+`Pengcheng Huang`, Zhenghao Liu*, Yukun Yan, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong
 
 [**📄PDF**](https://arxiv.org/pdf/2502.15543)
 
@@ -36,7 +36,7 @@ Zhenghao Liu, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng
 
 # Pc-sampler: Position-aware calibration of decoding bias in masked diffusion models
 
-`Pengcheng Huang`, Shuhao Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Zulong Chen, Tong Xiao
+`Pengcheng Huang`, Shuhao Liu, Zhenghao Liu*, Yukun Yan, Shuo Wang, Zulong Chen, Tong Xiao
 
 [**📄PDF**](https://arxiv.org/abs/2508.13021)
 
@@ -50,7 +50,7 @@ Zhenghao Liu, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Peng
 
 # ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance
 
-Sijia Yao, `Pengcheng Huang`, Zhenghao Liu, Yu Gu, Yukun Yan, Shi Yu, Ge Yu
+Sijia Yao, `Pengcheng Huang`, Zhenghao Liu*, Yu Gu, Yukun Yan, Shi Yu, Ge Yu
 
 
 [**📄PDF**](https://arxiv.org/abs/2502.17057)
@@ -81,7 +81,7 @@ Hao Chen, Yukun Yan, Sen Mei, Wanxiang Che, Zhenghao Liu, Qi Shi, Xinze Li, Yuch
 
 # Position IDs Matter: An Enhanced Position Layout for Efficient Context Compression in Large Language Models
 
-Runsong Zhao, Xin Liu, Xinyu Liu, `Pengcheng Huang`, Chunyang Xiao, Tong Xiao, Jingbo Zhu
+Runsong Zhao, Xin Liu, Xinyu Liu, `Pengcheng Huang`, Chunyang Xiao, Tong Xiao*, Jingbo Zhu
 
 [**📄PDF**](https://arxiv.org/abs/2409.14364)
 
@@ -95,7 +95,7 @@ Runsong Zhao, Xin Liu, Xinyu Liu, `Pengcheng Huang`, Chunyang Xiao, Tong Xiao, J
 
 # Forgetting curve: A reliable method for evaluating memorization capability for long-context models
 
-Xinyu Liu, Runsong Zhao, `Pengcheng Huang`, Chunyang Xiao, Bei Li, Jingang Wang, Tong Xiao, Jingbo Zhu
+Xinyu Liu, Runsong Zhao, `Pengcheng Huang`, Chunyang Xiao, Bei Li, Jingang Wang, Tong Xiao*, Jingbo Zhu
 
 [**📄PDF**](https://arxiv.org/abs/2410.04727)
 
@@ -110,7 +110,7 @@ Xinyu Liu, Runsong Zhao, `Pengcheng Huang`, Chunyang Xiao, Bei Li, Jingang Wang,
 
 # Translate-and-Revise: Boosting Large Language Models for Constrained Translation
 
-`Pengcheng Huang`, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, Jingbo Zhu
+`Pengcheng Huang`, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao*, Jingbo Zhu
 
 [**📄PDF**](https://aclanthology.org/2024.ccl-1.82/)
 
