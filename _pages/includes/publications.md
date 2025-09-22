@@ -2,6 +2,20 @@
 
 > You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=VA9mUOsAAAAJ). \* marks the corresponding author.
 
+<!-- PamramMute_nips -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper/parammute_nips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation
+
+`Pengcheng Huang`, Zhenghao Liu*, Yukun Yan, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong
+
+[**📄PDF**](https://arxiv.org/pdf/2502.15543)
+
+- This work presents ParamMute, a novel framework for enhancing the faithfulness of Retrieval-Augmented Generation. By identifying and suppressing unfaithfulness-associated feed-forward networks (FFNs), and incorporating a knowledge preference adaptation module, ParamMute effectively steers language models to better leverage retrieved evidence, paving the way for more reliable and trustworthy RAG systems.
+</div>
+</div>
+
 <!-- rag_survey -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Open 2025</div><img src='images/paper/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -16,19 +30,6 @@ Zhenghao Liu*, `Pengcheng Huang`, Zhipeng Xu, Xinze Li, Shuliang Liu, Chunyi Pen
 </div>
 </div>
 
-<!-- PamramMute_nips -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper/parammute_nips25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-# ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation
-
-`Pengcheng Huang`, Zhenghao Liu*, Yukun Yan, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong
-
-[**📄PDF**](https://arxiv.org/pdf/2502.15543)
-
-- This work presents ParamMute, a novel framework for enhancing the faithfulness of Retrieval-Augmented Generation. By identifying and suppressing unfaithfulness-associated feed-forward networks (FFNs), and incorporating a knowledge preference adaptation module, ParamMute effectively steers language models to better leverage retrieved evidence, paving the way for more reliable and trustworthy RAG systems.
-</div>
-</div>
 
 <!-- PC_sampler_aaai -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/paper/Pc_sampler_aaai26.png' alt="sym" width="100%"></div></div>
